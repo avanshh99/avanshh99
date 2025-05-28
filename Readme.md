@@ -28,10 +28,10 @@
 
 ### 👨‍💻 About Me
 
-Undergrad BE student building full-stack products and ML solutions.
+Undergrad BE student here to contribute, learn and grow!
 <br>  
 - 🔭 I’m currently working on google-adk, full-stack projects and hacks  
-- 📚 I’m learning advanced machine learning, system design, and germany language 
+- 📚 I’m learning advanced machine learning and german language
 - 🛠 I love building real-world systems using tech stacks like MERN, Python, and cloud tools  
 
 ---
