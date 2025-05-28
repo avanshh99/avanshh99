@@ -59,5 +59,5 @@ Undergrad BE student building full-stack products and ML solutions.
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=avanshetty&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
