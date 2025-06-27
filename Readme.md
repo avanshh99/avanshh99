@@ -4,9 +4,9 @@
 
 Undergrad BE student here to contribute, learn and grow!
 <br>  
-- 🔭 I’m currently working on google-adk, full-stack projects and hacks  
-- 📚 I’m learning advanced machine learning and agentic ai
-- 🛠 I love building real-world systems using tech stacks like MERN, Python, and cloud tools  
+- 🔭 I’m currently working on n8n, Nextjs, MCPs 
+- 📚 I’m learning adv machine learning and agentic ai
+- 🛠 I love building creative yet real world systems
 
 ---
 
