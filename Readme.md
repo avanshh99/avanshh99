@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks, 👋 I'm Avan Shetty</h1>
+<h1 align="left">Hello folks, 👋 I'm Avan Shetty</h1>
 
 ### 👨‍💻 About Me
 
@@ -16,7 +16,7 @@ Undergrad BE student here to contribute, learn and grow!
 
 
 ---
-### Connect with me on:
+### 💬 Connect with me on:
 <div align="left">
   <a href="https://www.linkedin.com/in/avan-shetty-a22868276/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
