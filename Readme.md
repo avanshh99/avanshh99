@@ -36,4 +36,4 @@ Undergrad BE student here to contribute, learn and grow!
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanshh99&show_icons=true&locale=en&layout=compact" alt="shettyavan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanshh99&show_icons=true&locale=en" alt="shettyavan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanshh99&show_icons=true&theme=default#gh-light-mode-only" alt="shettyavan" /></p>
