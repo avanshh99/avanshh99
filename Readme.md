@@ -4,7 +4,7 @@
 
 Undergrad BE student here to contribute, learn and grow!
 <br>  
-- 🔭 I’m currently working on voicenote assistant
+- 🔭 I’m currently working on Noteshush 🗣️
 - 📚 I’m learning adv machine learning and agentic ai
 - 🛠 I love building creative yet real world systems
 
