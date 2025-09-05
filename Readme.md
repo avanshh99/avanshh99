@@ -1,8 +1,8 @@
-<h1 align="left">Hello folks, 👋 I'm Avan Shetty</h1>
+<h1 align="left">Hello folks👋 I'm Avan Shetty</h1>
 
 ### 👨‍💻 About Me
 
-Undergrad BE student here to contribute, learn and grow!
+Just figuring out the world, one commit at a time.
 <br>  
 - 🔭 I’m currently working on Noteshush 🗣️
 - 📚 I’m learning adv machine learning and agentic ai
@@ -34,9 +34,10 @@ Undergrad BE student here to contribute, learn and grow!
 </div>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanshh99&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="shettyavan" /></p>
+<p> <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanshh99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanshh99&show_icons=true&theme=default#gh-light-mode-only" alt="shettyavan" /></p>
+<p>&nbsp;  <img width=390 src="https://streak-stats.demolab.com/?user=avanshh99&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </p>
 
 
 
