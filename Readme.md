@@ -37,7 +37,7 @@ Just figuring out the world, one commit at a time.
 <p> <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanshh99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
  </p>
 
-<p>&nbsp;  <img width=390 src="https://streak-stats.demolab.com/?user=avanshh99&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </p>
+<p>&nbsp;  <img width=390 src="https://streak-stats.demolab.com/?user=avanshh99&count_private=true&theme=react&border_radius=10" alt="streak"/> </p>
 
 
 
