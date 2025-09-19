@@ -1,4 +1,4 @@
-<h1 align="left">Hello folks👋 I'm Avan Shetty</h1>
+<h1 align="left">Hello folks! I'm Avan Shetty</h1>
 
 ### 👨‍💻 About Me
 
