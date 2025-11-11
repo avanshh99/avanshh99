@@ -5,7 +5,7 @@
 Just figuring out the world, one commit at a time.
 <br>  
 - 🔭 I’m currently working on Noteshush 🗣️
-- 📚 I’m learning adv machine learning and agentic ai
+- 📚 I’m learning adv machine learning, rust and agentic ai
 - 🛠 I love building creative yet real world systems
 
 ---
