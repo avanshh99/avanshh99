@@ -5,7 +5,7 @@
 Just figuring out the world, one commit at a time.
 <br>  
 -  I am currently working on driftwatch
-- 📚 I’m learning adv machine learning, rust and agentic ai
+- 📚 I’m learning adv deep learning, devops and agentic ai
 - 🛠 I love building creative yet real world systems
 
 ---
